@@ -3,13 +3,13 @@
 
 
 #### Technology Stack
-ReactJS
+- ReactJS
 
-apiary.io for API documentation (consider switching to Swagger.io)
+- apiary.io for API documentation (consider switching to Swagger.io)
 
-MongoDB
+- MongoDB
 
-Express 4.0
+- Express 4.0
 
 
 
@@ -20,11 +20,11 @@ npm install
 
 
 #### Development Commands
-start server    -  npm run lag-gayi
+- start server    -  npm run lag-gayi
 
-run unit tests   - npm run laal-ishq
+- run unit tests   - npm run laal-ishq
 
-watch unit tests - npm run laal-ishq:watch
+- watch unit tests - npm run laal-ishq:watch
 
 
 ### Website - http://svikasg.github.io/personal-website
